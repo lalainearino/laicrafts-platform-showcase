@@ -109,4 +109,4 @@ Order creation runs in a single database transaction: it locks the batch row, ch
 
 ## Author
 
-**Lalaine S. Ariño**, Founder and Full-Stack Developer · [LinkedIn](https://www.linkedin.com/in/lalainearino) · [GitHub](https://github.com/lalainearino)
+**Lalaine S. Ariño**, Founder and Full-Stack Developer · [LinkedIn](https://www.linkedin.com/in/lalaine-arino-026770284) · [GitHub](https://github.com/lalainearino)
