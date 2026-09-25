@@ -25,7 +25,7 @@ Each product is a handmade frame built from a customer's own photos and stories,
 
 ## Screenshots
 
-Customer names, contact details, photos and payment account details have been blurred.
+Customer names, contact details, photos, personal stories and payment account details have been blurred.
 
 | | |
 |---|---|
@@ -35,6 +35,15 @@ Customer names, contact details, photos and payment account details have been bl
 | **Order management** with 9 filters and bulk actions | **Batch management** with capacity, revenue and production lists |
 | ![Order detail](screenshots/06-order-detail.png) | ![Waitlist](screenshots/10-waitlist.png) |
 | **Order detail**: memory gallery with drag-and-drop ordering, photo editing and replacement | **Waitlist** with CSV export and batch-open notifications |
+
+### Customer checkout experience
+
+| | |
+|---|---|
+| ![Photo upload step](screenshots/11-photo-upload-step.png) | ![Order received](screenshots/12-order-received.png) |
+| **Photo upload step**: exact photo count per product, a description for each photo, and a choice between AI-enhanced or as-is captions | **Order confirmation** with a unique order ID generated inside the order transaction |
+| ![Order queued email](screenshots/13-email-order-queued.png) | ![Order summary email](screenshots/14-email-order-summary.png) |
+| **Automated email** sent from the studio's own domain after the order is saved | **Itemized receipt** calculated on the server |
 
 ### From customer story to printed exhibit card
 
