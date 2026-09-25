@@ -36,6 +36,17 @@ Customer names, contact details, photos, personal stories and payment account de
 | ![Order detail](screenshots/06-order-detail.png) | ![Waitlist](screenshots/10-waitlist.png) |
 | **Order detail**: memory gallery with drag-and-drop ordering, photo editing and replacement | **Waitlist** with CSV export and batch-open notifications |
 
+### Production planning
+
+For every batch, the platform turns its orders into exact production lists, split into rush and standard orders.
+
+| | |
+|---|---|
+| ![Materials and shopping list](screenshots/15-materials-list.png) | ![To-cut list](screenshots/16-cut-list.png) |
+| **Materials and shopping list**: frames, LEDs, miniatures and supplies to buy | **To-cut list**: wallpaper parts by color and size, flooring, and frames to prepare |
+| ![Assembly list](screenshots/17-assembly-list.png) | |
+| **Assembly list**: frame and wallpaper combinations to build | |
+
 ### Customer checkout experience
 
 | | |
