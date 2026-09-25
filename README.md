@@ -33,6 +33,19 @@ Customer names, contact details, photos and payment account details have been bl
 | **Order builder** with live batch and rush slot availability | **Operations dashboard** with weekly order volume |
 | ![Order management](screenshots/04-orders.png) | ![Batch management](screenshots/05-batches.png) |
 | **Order management** with 9 filters and bulk actions | **Batch management** with capacity, revenue and production lists |
+| ![Order detail](screenshots/06-order-detail.png) | ![Waitlist](screenshots/10-waitlist.png) |
+| **Order detail**: memory gallery with drag-and-drop ordering, photo editing and replacement | **Waitlist** with CSV export and batch-open notifications |
+
+### From customer story to printed exhibit card
+
+Each customer writes a short story for every photo. The platform turns those stories into museum-style exhibit cards, ready to print.
+
+| | |
+|---|---|
+| ![Crop editor](screenshots/08-crop-editor.png) | ![AI-generated exhibit cards](screenshots/07-exhibit-cards.png) |
+| **1. Crop editor**: the preview uses the same crop math as the export, so what you see is exactly what prints | **2. AI captions**: an LLM generates a title, closing title and closing line for each card while keeping the customer's own words |
+| ![Exhibit card preview](screenshots/09-card-preview.png) | |
+| **3. Final card**: black-and-white film filter processed on a canvas, exported at print resolution | |
 
 ## Key Features
 
